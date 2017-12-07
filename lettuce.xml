@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<ROM>
+<RomName>AIM-ROM</RomName>
+<VersionName>AIM-System-V3.0-20171207-OFFICIAL-lettuce</VersionName>
+<VersionNumber type="integer">20171207</VersionNumber>
+<DirectUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/lettuce]]></DirectUrl> 
+<HttpUrl><![CDATA[https://sourceforge.net/projects/aimroms/files/lettuce]]></HttpUrl> 
+<Android>8.0.0</Android> 
+<CheckMD5>b89a1ad5355b63ca8ba94f5f2596ca99</CheckMD5>
+<FileSize type="integer">367389001</FileSize> 
+<Developer><![CDATA[Ravi Pingat]]></Developer> 
+<WebsiteURL><![CDATA[http://forums.yuplaygod.com/threads/volte-rom-7-1-2_r29-official-aim-rom-v2-5-oms-dui-lettuce-stable-05-09-2017.50183/]]></WebsiteURL> 
+<DonateURL><![CDATA[https://www.paypal.me/ravipingat]]></DonateURL>
+<Changelog> <![CDATA[====================
+     12-06-2017
+====================
+
+   * build/make/]]></Changelog> 
+ <AddonCount>3</AddonCount>
+ <AddonsURL> https://goo.gl/KUWru6 </AddonsURL> 
+ </ROM>
